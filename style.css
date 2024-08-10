@@ -113,7 +113,7 @@ h2{
     .subService{
         display: none;
     }
-    .service:hover .subService {
+    .newservice:hover .subService {
         display: block;
     }
     .cont1,.con2,.cont3{
